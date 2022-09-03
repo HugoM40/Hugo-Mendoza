@@ -1,4 +1,4 @@
-<h1 align="center">¡Hi! I'm Hugo Mendoza <a> <br> <img aling="left" width="170" height="170"  src="https://github.com/HugoM40/HugoMendoza/blob/main/Fine.gif?raw=true" /</a></h1> 
+<h1 align="center">¡Hi! I'm Hugo Mendoza <a> <br> <img aling="left" width="170" height="170"  src="https://github.com/HugoM40/HugoM40/blob/main/Fine.gif"</a></h1> 
   
   <h2 align="center">Frontend Developer 🚀🚀🚀</h2>
   
