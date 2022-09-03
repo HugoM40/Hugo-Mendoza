@@ -2,6 +2,10 @@
   
   <h2 align="center">Frontend Developer 🚀🚀🚀</h2>
   
+<p> <li> You can find personal projects 📚 <p>
+<p> <li> I'm constantly learning, 🚀 <p>
+<p> <li> I'm interested in frontend technologies and databases  💻<p>
+  
   
 ## 📱 Connect with me
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugomendoza740/)
