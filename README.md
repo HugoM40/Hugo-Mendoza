@@ -4,7 +4,7 @@
   
 <p> <li> You can find personal projects 📚 <p>
 <p> <li> I'm constantly learning, 🚀 <p>
-<p> <li> I'm interested in frontend technologies and databases  💻<p>
+<p> <li> I'm interested in frontend technologies,databases, AWS and Terrafrom<p>
   
   
 ## 📱 Connect with me
